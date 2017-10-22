@@ -1,0 +1,10 @@
+[UPDATE]
+message_appear_offline="0.000000"
+message_has_url="1.000000"
+message_url="www.blabla.com"
+message_show_once="0.000000"
+message="Hello! This is my template text file from mediafire :)#No server, no webhost and no web programming required#Press F12 to restart"
+message_version="2.100000"
+message_date="3 May 2017"
+message_id="16543.000000"
+
