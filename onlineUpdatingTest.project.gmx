@@ -9,6 +9,7 @@
   <backgrounds name="background"/>
   <paths name="paths"/>
   <scripts name="scripts">
+    <script>scripts\GUIDE.gml</script>
     <script>scripts\message_display.gml</script>
     <script>scripts\process_message.gml</script>
   </scripts>
